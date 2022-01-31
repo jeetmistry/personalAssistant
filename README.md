@@ -8,7 +8,7 @@
 <p>The Aim of this project is to create web Assistant which consists of programming and personal tools to help increase efficiency and productivity saving one's time and effort. ProAssistant has many tools which a programmer can use in his daily life making his programming journey simple and fun! </p>
 
 ## Deployment
-  https://pro-assistant0.herokuapp.com/
+  https://programmer-assistant.herokuapp.com/
 
 
 ## Video Link
